@@ -8,7 +8,7 @@
 Le <b>MLOps</b> est une pratique qui suit le cycle de vie d'un algorithme de machine learning, à savoir la préparation des données, son developpement, son déploiement puis son monitoring.
 Tout ceci vise à garantir la réutilisation du modèle sur plusieurs cycles de vie.
 
-![alt text](/Images/mlops_cycle.png)
+![alt text](Images/mlops_cycle.PNG)
 
 ### MLflow
 
