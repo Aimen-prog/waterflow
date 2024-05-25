@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/bb8aec8e09584dc68e48ef978a9b971a/artifacts
+end_time: 1716640398257
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb8aec8e09584dc68e48ef978a9b971a
+run_name: calm-skunk-520
+run_uuid: bb8aec8e09584dc68e48ef978a9b971a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716640394286
+status: 3
+tags: []
+user_id: cheri
