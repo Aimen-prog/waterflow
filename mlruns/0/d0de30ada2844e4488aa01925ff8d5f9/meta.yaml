@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/d0de30ada2844e4488aa01925ff8d5f9/artifacts
+end_time: 1716721758472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0de30ada2844e4488aa01925ff8d5f9
+run_name: invincible-foal-951
+run_uuid: d0de30ada2844e4488aa01925ff8d5f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716721752467
+status: 3
+tags: []
+user_id: cheri
