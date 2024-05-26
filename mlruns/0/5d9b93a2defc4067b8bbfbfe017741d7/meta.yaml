@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/5d9b93a2defc4067b8bbfbfe017741d7/artifacts
+end_time: 1716720426277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d9b93a2defc4067b8bbfbfe017741d7
+run_name: bemused-ape-16
+run_uuid: 5d9b93a2defc4067b8bbfbfe017741d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716720419112
+status: 3
+tags: []
+user_id: cheri

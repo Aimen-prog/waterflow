@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/b72c2bcaf50d4d8fb17f00b597d45375/artifacts
+end_time: 1716720478027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b72c2bcaf50d4d8fb17f00b597d45375
+run_name: legendary-crane-959
+run_uuid: b72c2bcaf50d4d8fb17f00b597d45375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716720469634
+status: 3
+tags: []
+user_id: cheri

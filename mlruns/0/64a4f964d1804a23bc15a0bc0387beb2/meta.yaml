@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/64a4f964d1804a23bc15a0bc0387beb2/artifacts
+end_time: 1716719579275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64a4f964d1804a23bc15a0bc0387beb2
+run_name: stylish-whale-872
+run_uuid: 64a4f964d1804a23bc15a0bc0387beb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716719571483
+status: 3
+tags: []
+user_id: cheri

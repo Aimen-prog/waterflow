@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/1f192a98f3e34e529951dce5f7fdcf79/artifacts
+end_time: 1716720454773
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f192a98f3e34e529951dce5f7fdcf79
+run_name: overjoyed-hare-173
+run_uuid: 1f192a98f3e34e529951dce5f7fdcf79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716720448277
+status: 3
+tags: []
+user_id: cheri

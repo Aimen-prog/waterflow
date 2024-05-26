@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/87e469f209e84ec0a1ac64945de044e5/artifacts
+end_time: 1716721078757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87e469f209e84ec0a1ac64945de044e5
+run_name: whimsical-mole-941
+run_uuid: 87e469f209e84ec0a1ac64945de044e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716721072700
+status: 3
+tags: []
+user_id: cheri

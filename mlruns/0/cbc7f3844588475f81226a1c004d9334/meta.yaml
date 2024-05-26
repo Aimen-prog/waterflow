@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/cbc7f3844588475f81226a1c004d9334/artifacts
+end_time: 1716719562582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cbc7f3844588475f81226a1c004d9334
+run_name: bold-penguin-842
+run_uuid: cbc7f3844588475f81226a1c004d9334
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716719555565
+status: 3
+tags: []
+user_id: cheri
