@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/cd04008203e44d3ebba310d08740aaa0/artifacts
+end_time: 1716805136411
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd04008203e44d3ebba310d08740aaa0
+run_name: chill-loon-493
+run_uuid: cd04008203e44d3ebba310d08740aaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716805131561
+status: 3
+tags: []
+user_id: cheri

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/092da8b2052246a980cb4f81c23e82ac/artifacts
+end_time: 1716721772706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 092da8b2052246a980cb4f81c23e82ac
+run_name: nervous-ant-370
+run_uuid: 092da8b2052246a980cb4f81c23e82ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716721766210
+status: 3
+tags: []
+user_id: cheri

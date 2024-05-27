@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/b59b56815ce04de0a1acc0033704b92d/artifacts
+end_time: 1716717206355
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b59b56815ce04de0a1acc0033704b92d
+run_name: adaptable-mouse-220
+run_uuid: b59b56815ce04de0a1acc0033704b92d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716717196421
+status: 3
+tags: []
+user_id: cheri

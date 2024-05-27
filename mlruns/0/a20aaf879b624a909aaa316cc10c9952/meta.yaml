@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/a20aaf879b624a909aaa316cc10c9952/artifacts
+end_time: 1716721103532
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a20aaf879b624a909aaa316cc10c9952
+run_name: fun-owl-349
+run_uuid: a20aaf879b624a909aaa316cc10c9952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716721097694
+status: 3
+tags: []
+user_id: cheri

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/3dddda5bb7834adbbaaf343799adcac2/artifacts
+end_time: 1716805131536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3dddda5bb7834adbbaaf343799adcac2
+run_name: placid-mink-43
+run_uuid: 3dddda5bb7834adbbaaf343799adcac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716805127281
+status: 3
+tags: []
+user_id: cheri

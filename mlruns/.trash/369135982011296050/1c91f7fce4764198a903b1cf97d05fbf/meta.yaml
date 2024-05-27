@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/369135982011296050/1c91f7fce4764198a903b1cf97d05fbf/artifacts
+deleted_time: 1716807479638
+end_time: 1716805365716
+entry_point_name: ''
+experiment_id: '369135982011296050'
+lifecycle_stage: deleted
+run_id: 1c91f7fce4764198a903b1cf97d05fbf
+run_name: kindly-ant-242
+run_uuid: 1c91f7fce4764198a903b1cf97d05fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716805360792
+status: 3
+tags: []
+user_id: cheri

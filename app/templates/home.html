@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <div style="text-align: center;">
+        <img src="static/images/logo-laplateforme.png" alt="laplateforme logo" width="210" height="50">
+    </div>
+    <title>Waterflow</title>
+</head>
+
+<body>
+    <div class="container mt-4">
+        <h1 class="apptitle"><span class="fancy">Waterflow</span></h1>
+        <div class="welcome-heading"><h3>Welcome to Waterflow Website,</h3></div>
+        <!-- Form for entering entries of the model -->
+        <div class="form-container">
+        <form action="/predict" method="POST">
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="ph"><h4>pH:</h4></label>
+                <input type="number" min="0" max="14" class="form-control" id="ph" name="ph" placeholder="Enter the pH (0-14)" required>
+            </div>
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="hardness"><h4>Hardness:</h4></label>
+                <input type="number" min="0" class="form-control" id="hardness" name="hardness" placeholder="Enter the Hardness" required>
+            </div>
+            
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="solids"><h4>Solids:</h4></label>
+                <input type="number" min="0" class="form-control" id="solids" name="solids" placeholder="Enter the Solids" required>
+            </div>
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="chloramines"><h4>Chloramines:</h4></label>
+                <input type="number" min="0" class="form-control" id="chloramines" name="chloramines" placeholder="Enter the Chloramines" required>
+            </div>
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="sulfate"><h4>Sulfate:</h4></label>
+                <input type="number" min="0" class="form-control" id="sulfate" name="sulfate" placeholder="Enter the Sulfate" required>
+            </div>
+           				
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="conductivity"><h4>Conductivity:</h4></label>
+                <input type="number" min="0" class="form-control" id="conductivity" name="conductivity" placeholder="Enter the Conductivity" required>
+            </div>
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="organic_carbon"><h4>Organic carbon:</h4></label>
+                <input type="number" min="0" class="form-control" id="organic_carbon" name="organic_carbon" placeholder="Enter the Organic carbon" required>
+            </div>
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="trihalomethanes"><h4>Trihalomethanes:</h4></label>
+                <input type="number" min="0" class="form-control" id="trihalomethanes" name="trihalomethanes" placeholder="Enter the Trihalomethanes" required>
+            </div>
+
+            <div style="padding-top: 12px;" class="form-group">
+                <label for="turbidity"><h4>Turbidity:</h4></label>
+                <input type="number" min="0" class="form-control" id="turbidity" name="turbidity" placeholder="Enter the Turbidity" required>
+            </div>
+
+
+            
+            <div style="padding-top: 12px;" class="form-group">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+
+
+        </form></div>
+    </div>
+</body>
+
+
+</html>

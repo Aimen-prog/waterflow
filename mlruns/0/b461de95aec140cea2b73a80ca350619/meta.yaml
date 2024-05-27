@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/b461de95aec140cea2b73a80ca350619/artifacts
+end_time: 1716717221765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b461de95aec140cea2b73a80ca350619
+run_name: valuable-asp-798
+run_uuid: b461de95aec140cea2b73a80ca350619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716717213310
+status: 3
+tags: []
+user_id: cheri

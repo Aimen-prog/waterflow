@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <div style="text-align: center;">
+        <img src="static/images/logo-laplateforme.png" alt="laplateforme logo" width="210" height="50">
+    </div>
+    <title>Waterflow</title>
+</head>
+
+<body>
+    <div class="container mt-4">
+        <h1 class="apptitle"><span class="fancy">Waterflow</span></h1>
+        <h3>Your Prediction:</h3>
+        <p>The water is {{ prediction }} </p>
+        <button onclick="window.location.href='/'" class="btn">Back to Home Page</button>
+    </div>
+</body>
+</html>

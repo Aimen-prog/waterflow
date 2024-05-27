@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/b4f6e3c719ba4c4b90486baaa650364d/artifacts
+end_time: 1716721723085
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4f6e3c719ba4c4b90486baaa650364d
+run_name: puzzled-flea-483
+run_uuid: b4f6e3c719ba4c4b90486baaa650364d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716721717260
+status: 3
+tags: []
+user_id: cheri

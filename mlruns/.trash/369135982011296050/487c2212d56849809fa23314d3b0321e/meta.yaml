@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/369135982011296050/487c2212d56849809fa23314d3b0321e/artifacts
+deleted_time: 1716807479638
+end_time: 1716805370366
+entry_point_name: ''
+experiment_id: '369135982011296050'
+lifecycle_stage: deleted
+run_id: 487c2212d56849809fa23314d3b0321e
+run_name: invincible-pug-729
+run_uuid: 487c2212d56849809fa23314d3b0321e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716805365733
+status: 3
+tags: []
+user_id: cheri

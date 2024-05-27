@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/a957e98fb09d4ea39831717a00df205d/artifacts
+end_time: 1716723669851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a957e98fb09d4ea39831717a00df205d
+run_name: unique-grub-241
+run_uuid: a957e98fb09d4ea39831717a00df205d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716723662291
+status: 3
+tags: []
+user_id: cheri

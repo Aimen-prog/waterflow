@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/545d7308037b432a8400b74ac5978f16/artifacts
+end_time: 1716721739900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 545d7308037b432a8400b74ac5978f16
+run_name: crawling-tern-772
+run_uuid: 545d7308037b432a8400b74ac5978f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716721732205
+status: 3
+tags: []
+user_id: cheri

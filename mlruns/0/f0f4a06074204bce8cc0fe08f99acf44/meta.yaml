@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/f0f4a06074204bce8cc0fe08f99acf44/artifacts
+end_time: 1716640028543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0f4a06074204bce8cc0fe08f99acf44
+run_name: classy-zebra-550
+run_uuid: f0f4a06074204bce8cc0fe08f99acf44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716640024053
+status: 3
+tags: []
+user_id: cheri

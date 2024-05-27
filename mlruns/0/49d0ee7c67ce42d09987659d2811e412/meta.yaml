@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/49d0ee7c67ce42d09987659d2811e412/artifacts
+end_time: 1716719672371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49d0ee7c67ce42d09987659d2811e412
+run_name: amazing-midge-767
+run_uuid: 49d0ee7c67ce42d09987659d2811e412
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716719665513
+status: 3
+tags: []
+user_id: cheri
