@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/932810d9579f4ba8994380ca6f8e584e/artifacts
+end_time: 1716805140763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 932810d9579f4ba8994380ca6f8e584e
+run_name: painted-cat-760
+run_uuid: 932810d9579f4ba8994380ca6f8e584e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716805136441
+status: 3
+tags: []
+user_id: cheri

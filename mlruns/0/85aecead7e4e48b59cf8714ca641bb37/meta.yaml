@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/85aecead7e4e48b59cf8714ca641bb37/artifacts
+end_time: 1716805149596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85aecead7e4e48b59cf8714ca641bb37
+run_name: beautiful-kite-321
+run_uuid: 85aecead7e4e48b59cf8714ca641bb37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716805145221
+status: 3
+tags: []
+user_id: cheri

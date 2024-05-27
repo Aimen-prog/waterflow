@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/094e3a5a0ed54d6d9afa75bd04740009/artifacts
+end_time: 1716723589469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 094e3a5a0ed54d6d9afa75bd04740009
+run_name: dapper-shark-517
+run_uuid: 094e3a5a0ed54d6d9afa75bd04740009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716723582159
+status: 3
+tags: []
+user_id: cheri

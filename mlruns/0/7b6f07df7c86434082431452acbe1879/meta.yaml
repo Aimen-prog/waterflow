@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/0/7b6f07df7c86434082431452acbe1879/artifacts
+end_time: 1716723640107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b6f07df7c86434082431452acbe1879
+run_name: upset-midge-823
+run_uuid: 7b6f07df7c86434082431452acbe1879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716723633475
+status: 3
+tags: []
+user_id: cheri
