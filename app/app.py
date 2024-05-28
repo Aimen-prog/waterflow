@@ -25,7 +25,6 @@ def predict():
     organic_carbon = float(request.form['organic_carbon'])
     trihalomethanes = float(request.form['trihalomethanes'])
     turbidity = float(request.form['turbidity'])
-
     
     # predire
     features = np.array([[ ph, hardness, solids, chloramines, sulfate, conductivity, organic_carbon, trihalomethanes, turbidity]])

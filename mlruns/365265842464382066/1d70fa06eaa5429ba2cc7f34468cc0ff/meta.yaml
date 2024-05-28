@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/cheri/waterflow/waterflow/mlruns/365265842464382066/1d70fa06eaa5429ba2cc7f34468cc0ff/artifacts
+end_time: 1716905763013
+entry_point_name: ''
+experiment_id: '365265842464382066'
+lifecycle_stage: active
+run_id: 1d70fa06eaa5429ba2cc7f34468cc0ff
+run_name: Run_3_estimators_100_depth_3_lr_0.1
+run_uuid: 1d70fa06eaa5429ba2cc7f34468cc0ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716905755222
+status: 3
+tags: []
+user_id: cheri
