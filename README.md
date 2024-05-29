@@ -30,7 +30,7 @@ En particulier, grâce à MLflow, les modèles qui ont été entraînés à une 
 
 Exécuter les chunks du fichier "datanalysis.ipynb".
 
-Pour lancer les experiences mlflow,et avoir les modeles au format pickle
+Pour lancer les experiences mlflow, et avoir les modeles au format pickle
 
 ```
 mlflow ui --port 5000
