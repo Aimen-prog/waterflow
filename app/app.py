@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, Response
 from Models.model import Modelr
 import pandas as pd
 import numpy as np
@@ -7,7 +7,7 @@ import numpy as np
 app = Flask(__name__)
 
 # initialize the model
-model = Modelr('app/trained_model/model.pkl')
+model = Modelr('./trained_model/model.pkl')
 
 @app.route('/')
 def home_page():
@@ -25,7 +25,11 @@ def predict():
     organic_carbon = float(request.form['organic_carbon'])
     trihalomethanes = float(request.form['trihalomethanes'])
     turbidity = float(request.form['turbidity'])
-    
+
+    if not (0 <= ph <= 14):
+        error_message = "Invalid pH value: pH must be between 0 and 14"
+        return Response(f"<script>alert('{error_message}');</script>", status=400)
+
     # predire
     features = np.array([[ ph, hardness, solids, chloramines, sulfate, conductivity, organic_carbon, trihalomethanes, turbidity]])
     prediction_list = model.predict(features)

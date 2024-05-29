@@ -26,12 +26,12 @@
     <div class="container mt-4">
         <h1 class="apptitle"><span class="fancy">Waterflow</span></h1>
         <div class="welcome-heading"><h3>Welcome to Waterflow Website,</h3></div>
-        <!-- Form for entering entries of the model -->
+        <!-- Form for entering entries of the model min="0" max="14" -->
         <div class="form-container">
         <form action="/predict" method="POST">
             <div style="padding-top: 12px;" class="form-group">
-                <label for="ph"><h4>pH:</h4></label>
-                <input type="number" min="0" max="14" class="form-control" id="ph" name="ph" placeholder="Enter the pH (0-14)" required>
+                <label for="ph"><h4>pH:</h4></label> 
+                <input type="number" class="form-control" id="ph" name="ph" placeholder="Enter the pH (0-14)" required>
             </div>
 
             <div style="padding-top: 12px;" class="form-group">
