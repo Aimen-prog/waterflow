@@ -40,9 +40,9 @@ h3{
     font-family: 'Calibri', sans-serif;
 }
 
+/* 
 body {
-  --s: 150px; /* control the size */
-
+  --s: 150px; 
   --_g: #0000 90deg, #f3f3f3 0;
   background:
     conic-gradient(from 116.56deg at calc(100%/3) 0   ,var(--_g)),
@@ -50,7 +50,7 @@ body {
     white;
   background-size: var(--s) var(--s);
 }
-
+*/
 
 button {
     display: inline-block;
