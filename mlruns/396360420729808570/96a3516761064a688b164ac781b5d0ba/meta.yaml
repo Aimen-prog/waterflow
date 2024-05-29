@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/396360420729808570/96a3516761064a688b164ac781b5d0ba/artifacts
+end_time: 1716973426395
+entry_point_name: ''
+experiment_id: '396360420729808570'
+lifecycle_stage: active
+run_id: 96a3516761064a688b164ac781b5d0ba
+run_name: Run_3_estimators_100_depth_3_lr_0.1
+run_uuid: 96a3516761064a688b164ac781b5d0ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716973417241
+status: 3
+tags: []
+user_id: cheri
